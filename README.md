@@ -15,4 +15,8 @@
 
 </td>
 </tr>
-</table
+</table>
+
+### You can find me:
+<a href="https://dev.to/fmgordillo"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" height="48" width="48" ></a>
+
