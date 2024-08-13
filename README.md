@@ -7,9 +7,9 @@ Code will start moving there because #Microsoft
 - [My Gitlab profile](https://gitlab.com/FMGordillo)
 - [My **REAL** code contributions](https://wakatime.com/@FMGordillo)
 
-[![wakatime](https://wakatime.com/badge/user/064265c1-91ed-4c18-862f-bdd2c9c97922.svg)](https://wakatime.com/@064265c1-91ed-4c18-862f-bdd2c9c97922)
+[![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=fmgordillo&api_domain=wakapi.facundogordillo.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=fmgordillo&api_domain=wakapi.facundogordillo.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
-[![wakapi contributions](https://wakapi.facundogordillo.com/api/activity/chart/fmgordillo.svg)](https://wakapi.facundogordillo.com/api/activity/chart/fmgordillo.svg)
+[![Wakapi badge](https://wakapi.facundogordillo.com/api/badge/fmgordillo/fmgordillo/interval:30%20days?label=last%2030d)](https://wakapi.facundogordillo.com/api/badge/fmgordillo/fmgordillo/interval:30%20days?label=last%2030d)
 
 # Profiles
 
