@@ -8,7 +8,7 @@ Code will start moving there because #Microsoft
 
 [![Wakapi](https://github-readme-stats.vercel.app/api/wakatime?username=fmgordillo&api_domain=wakapi.facundogordillo.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=fmgordillo&api_domain=wakapi.facundogordillo.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
-![Wakapi today](https://wakapi.facundogordillo.com/api/badge/fmgordillo/interval:today?label=today) ![Wakapi last 30 days](https://wakapi.facundogordillo.com/api/badge/fmgordillo/fmgordillo/interval:30_days?label=last%2030d)
+![Wakapi today](https://wakapi.facundogordillo.com/api/badge/fmgordillo/interval:today?label=Today) ![Wakapi last 30 days](https://wakapi.facundogordillo.com/api/badge/fmgordillo/interval:30%20days?label=Last%2030%20days)
 
 # Profiles
 
